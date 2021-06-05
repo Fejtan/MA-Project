@@ -23,7 +23,7 @@
 				android:id="@+id/imgToolbarBack"
 				style="@style/ImgToolbarIcon"
 				android:contentDescription="@string/backButton"
-				app:srcCompat="@drawable/ic_arrow_back_white_24dp" />
+				app:srcCompat="@drawable/back" />
 			
 			<TextView
 				style="@style/UserToolbarText"

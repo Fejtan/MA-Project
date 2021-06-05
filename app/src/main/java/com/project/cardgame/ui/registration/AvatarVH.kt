@@ -16,10 +16,13 @@ class AvatarVH(itemView: View) : RecyclerView.ViewHolder(itemView)
 		if (itemView !is RoundedImageView) return
 
 		itemView.setBackgroundColor(ContextCompat.getColor(itemView.context, R.color.white))
-		if (avatarDrawableRes != 0) {
+		if (avatarDrawableRes != 0)
+		{
 			itemView.setImageResource(avatarDrawableRes)
-		} else {
-			itemView.setImageResource(R.drawable.ic_plus_blue700_24dp)
+		}
+		else
+		{
+			itemView.setImageResource(R.drawable.add)
 		}
 
 		itemView.setOnClickListener {

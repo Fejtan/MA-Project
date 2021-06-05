@@ -10,7 +10,6 @@
 	<style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
 		<item name="android:windowFullscreen">true</item>
 		<item name="android:windowContentOverlay">@null</item>
-		<item name="android:windowBackground">@drawable/layerlist_bg_splash_en</item>
 	</style>
 	
 	<style name="AccentBlue700Theme" parent="AppTheme">

@@ -20,7 +20,7 @@
 				android:id="@+id/imgToolbarBack"
 				style="@style/ImgToolbarIcon"
 				android:contentDescription="@string/backButton"
-				app:srcCompat="@drawable/ic_arrow_back_white_24dp" />
+				app:srcCompat="@drawable/back" />
 			
 			<TextView
 				style="@style/UserToolbarText"
@@ -66,7 +66,7 @@
 					android:background="@drawable/shape_round_blue700"
 					android:contentDescription="@string/changeAvatarButton"
 					android:padding="@dimen/spacing_12"
-					app:srcCompat="@drawable/ic_edit_pen_white_14dp" />
+					app:srcCompat="@drawable/edit" />
 			
 			</FrameLayout>
 			

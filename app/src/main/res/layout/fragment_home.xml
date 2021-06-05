@@ -37,7 +37,7 @@
 		android:contentDescription="@string/logoutButton"
 		app:layout_constraintEnd_toEndOf="parent"
 		app:layout_constraintTop_toTopOf="parent"
-		app:srcCompat="@drawable/ic_logout_white_24dp" />
+		app:srcCompat="@drawable/logout" />
 	
 	<TextView
 		android:id="@+id/tvNickname"
