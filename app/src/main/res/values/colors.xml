@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<color name="colorPrimary">#1976D2</color>
-	<color name="colorPrimaryDark">#004BA0</color>
-	<color name="colorAccent">#29B6F6</color>
-	
+<!--	<color name="colorPrimary">#1976D2</color>-->
+<!--	<color name="colorPrimaryDark">#004BA0</color>-->
+<!--	<color name="colorAccent">#29B6F6</color>-->
+	<color name="colorPrimary">#000000</color>
+	<color name="colorPrimaryDark">#000000</color>
+	<color name="colorAccent">#000000</color>
+
 	<color name="white">#FFFFFF</color>
 	<color name="black">#000000</color>
 	
@@ -17,11 +20,16 @@
 	<color name="grey900">#212121</color>
 	
 	<!-- Material Blue Colors -->
-	<color name="blue400">#42A5F5</color>
-	<color name="blue500">#2196F3</color>
-	<color name="blue700">#1976D2</color>
-	<color name="blue800">#1565C0</color>
-	<color name="blue900">#0D47A1</color>
+<!--	<color name="blue400">#42A5F5</color>-->
+<!--	<color name="blue500">#2196F3</color>-->
+<!--	<color name="blue700">#1976D2</color>-->
+<!--	<color name="blue800">#1565C0</color>-->
+<!--	<color name="blue900">#0D47A1</color>-->
+	<color name="blue400">#000000</color>
+	<color name="blue500">#000000</color>
+	<color name="blue700">#000000</color>
+	<color name="blue800">#000000</color>
+	<color name="blue900">#000000</color>
 	
 	<!-- Material Red Colors -->
 	<color name="red400">#ef5350</color>

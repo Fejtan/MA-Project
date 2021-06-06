@@ -1,7 +1,7 @@
 buildscript {
     ext {
         projectConfig = [
-                application_id: 'com.anilokcun.matchcards',
+                application_id: 'com.project.cardgame',
                 version_code  : 1,
                 version_name  : '1',
                 compile_sdk   : 28,
