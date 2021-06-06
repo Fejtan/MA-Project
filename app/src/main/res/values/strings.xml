@@ -1,0 +1,66 @@
+<resources>
+	<!-- General -->
+	<string name="app_name">Match Cards!</string>
+	<string name="app_url" translatable="false">https://play.google.com/store</string>
+	<string name="settings">Settings</string>
+	
+	<string name="imageSelectToastDiagError">Image could not be selected.</string>
+	<string name="errorOccured">Something went wrong. Please check your internet connection and try again.</string>
+	
+	<!-- Onboard -->
+	<string name="nickHint">Nickname</string>
+	<string name="passHint">Password</string>
+	<string name="passInfo">Your password should be at least 6 characters.</string>
+	
+	<!-- Login -->
+	<string name="loginToolbar">Log In</string>
+	<string name="loginButton">Log in</string>
+	<string name="signupButtonLoginScreenQuestion">Don\’t have an account? Sign Up</string>
+	<string name="loginProgress">Logging in…</string>
+	
+	<!-- Register -->
+	<string name="registerToolbar">Register</string>
+	<string name="signupButton">Sign up</string>
+	<string name="signupProgress">Signing up…</string>
+	
+	<!-- Home -->
+	<string name="userScores">Last Score: %1$d &#160;&#160;&#160; High Score: %2$d</string>
+	<string name="playButton">Play</string>
+	<string name="leaderboardButton">Leaders</string>
+	
+	<!-- Game -->
+	<string name="gameTime">Time: %1$02d:%2$02d</string>
+	<string name="gameScore">Score: %1$d</string>
+	<string name="gameDialogOnLevelComplete">Level %1$d Completed!</string>
+	<string name="gameDialogWin">Congrats!</string>
+	<string name="gameDialogGameOver">Game Over!</string>
+	<string name="gameDialogTimeRemain">Remaining Time: %1$02d:%2$02d</string>
+	<string name="gameDialogLastHighScore">Your Last High Score: %1$d</string>
+	<string name="gameDialogNextLevelButton">Next Level</string>
+	<string name="gameDialogPlayAgainButton">Play Again</string>
+	<string name="gameDialogShareScoreButton">Share Your Score</string>
+	<string name="scoreShareInfo">Look, I got %1$d points on %2$s game, can you beat this? Try it: %3$s</string>
+	<string name="scoreSavedToast">Your score has been saved.</string>
+	<string name="scoreSaveFailedToast">Your score could not be saved.</string>
+	
+	<!-- Leaders -->
+	<string name="leaderboardToolbar">Leaders</string>
+	<string name="top1" translatable="false">1</string>
+	<string name="top2" translatable="false">2</string>
+	<string name="top3" translatable="false">3</string>
+	
+	<!-- Permissions -->
+	<string name="galleryPermDeniedSnackbar">You can\'t open the gallery without permission.</string>
+	<string name="galleryPermDeniedPermSnackbar">You need the give permission to open gallery.
+    </string>
+	
+	<!-- Digits -->
+	<string name="stringContains">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</string>
+	<string name="stringContainsSpecials">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&amp;'()*+,-./:;=&#60;>?@[\]^_`{|}~</string>
+	
+	<!-- Content Description -->
+	<string name="backButton">Back</string>
+	<string name="changeAvatarButton">Change your avatar</string>
+	<string name="logoutButton">Log out</string>
+
+</resources>
