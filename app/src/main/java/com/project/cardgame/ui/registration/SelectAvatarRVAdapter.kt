@@ -15,7 +15,7 @@ class SelectAvatarRVAdapter(private val avatarList: List<Int>, private val click
 			val avatarSizePx = resources.getDimensionPixelSize(R.dimen.select_avatar_dialog_avatar_size)
 			layoutParams = ViewGroup.LayoutParams(avatarSizePx, avatarSizePx)
 			borderWidth = resources.getDimensionPixelSize(R.dimen.avatar_stroke).toFloat()
-			borderColor = ContextCompat.getColor(context, R.color.blue700)
+			borderColor = ContextCompat.getColor(context, R.color.black)
 			isOval = true
 			isClickable = true
 		}

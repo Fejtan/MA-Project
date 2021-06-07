@@ -126,14 +126,14 @@ class GameFragment : ParentFragment()
 		val remainingTimeMinSec = getTimeMinSec(remainingTimeMs)
 		levelFinishedDialog = context?.getGameDialog(
 			title = getString(R.string.gameDialogOnLevelComplete, oldLevel),
-			titleColorResId = R.color.blue800,
+			titleColorResId = R.color.black,
 			info1 = getString(R.string.gameScore, score),
 			info2 = getString(
 				R.string.gameDialogTimeRemain,
 				remainingTimeMinSec.first,
 				remainingTimeMinSec.second
 			),
-			infoBackgroundColorResId = R.color.blue400,
+			infoBackgroundColorResId = R.color.black,
 			playButtonText = getString(R.string.gameDialogNextLevelButton),
 			playButtonClickListener = {
 				levelFinishedDialog?.dismiss()

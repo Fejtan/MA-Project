@@ -63,7 +63,7 @@
 					android:layout_width="@dimen/register_ic_edit_avatar_size"
 					android:layout_height="@dimen/register_ic_edit_avatar_size"
 					android:layout_gravity="bottom|end"
-					android:background="@drawable/shape_round_blue700"
+					android:background="@drawable/shape_round_black"
 					android:contentDescription="@string/changeAvatarButton"
 					android:padding="@dimen/spacing_12"
 					app:srcCompat="@drawable/edit" />
